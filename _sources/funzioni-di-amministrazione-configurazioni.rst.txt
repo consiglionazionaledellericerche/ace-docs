@@ -13,4 +13,4 @@ Le parametrizzazioni possibili si riferiscono a:
   funzioni-di-amministrazione-configurazioni/tipi-entità-organizzative.rst
   funzioni-di-amministrazione-configurazioni/tipi-gerarchia-e-struttura-tipi-gerarchia.rst
   funzioni-di-amministrazione-configurazioni/tipi-entità-locali-e-gestione-entità-locali.rst
-  funzioni-di-amministrazione-configurazioni/contesti.rst
+  funzioni-di-amministrazione-configurazioni/contesti-ruoli.rst
