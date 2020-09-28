@@ -24,9 +24,9 @@ Un ruolo può essere associato soltanto ad un contesto, quindi, ed essere reso v
 
 In sintesi per ogni contesto è specificato:
 
--  Amministratore del contesto (Ruolo) – Chi ha assegnato questo ruolo è abilitato ad assegnare tutti i ruoli del contesto ed è abilitato a condividere i ruoli del contesto ad altri contesti;
+-  Amministratore del contesto (Ruolo) – Chi ha assegnato questo ruolo è abilitato a gestire i ruoli del contesto, ad assegnare tutti i ruoli del contesto ed è abilitato a condividere i ruoli del contesto ad altri contesti;
 
--  Gestore del contesto (Ruolo) – Chi ha assegnato questo ruolo è abilitato solo ad assegnare tutti i ruoli del contesto.
+-  Gestore del contesto (Ruolo) – Chi ha assegnato questo ruolo è abilitato solo ad assegnare tutti i ruoli del contesto di appartenenza.
 
 -  Il Contesto ‘SISTEMA’, che definisce i ruoli necessari al funzionamento di ACE, sarà gestibile solo dal Superutente.
 
@@ -41,6 +41,8 @@ Ci sono poi alcuni ruoli di SISTEMA per l’amministrazione del sistema ACE:
 -  ADMIN: Amministratore del Sistema. Abilitato a gestire tutte le ‘configurazioni’;
 
 -  DEVELOPER: Ruolo di sviluppo utilizzato da applicazioni esterne ad ACE. Abilitato in lettura a tutti i dati;
+
+-  USERS-VIEWS: Ruolo che consente la visualizzazione Ruoli-Utente.
 
 Sui contesti abbiamo i ruoli che *concedono* particolari abilitazioni (come indicato prima: Ruolo Amministratore e Ruolo Gestore).
 
