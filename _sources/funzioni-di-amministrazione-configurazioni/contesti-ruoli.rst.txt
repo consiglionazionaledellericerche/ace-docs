@@ -56,20 +56,27 @@ Sui contesti abbiamo i ruoli che *concedono* particolari abilitazioni (come indi
 
 Le informazioni previste nella definizione di un Ruolo sono, oltre a descrizione e sigla:
 
-Ruolo padre: utile alla gestione del raggruppamento dei ruoli;
+-  Associazione obbligatoria del ruolo al contesto di appartenenza. Questo essere indicato all'atto della creazione del Ruolo stesso.
 
-L’indicazione dell’associazione del ruolo ai contesti. In questa sezione viene specificato il contesto al quale il ruolo appartiene, che può essere uno solo e deve essere indicato all'atto della creazione del Ruolo stesso.
+-  Tipologia. In questo campo viene specificato il tipo di ruolo:
+  -  Gestore,
+  -  Amministratore, 
+  -  Generico (Utente Applicativo)
+oppure è possibile specificare un tipo di Ruolo di sistema solo se chi opera è un'utente di amministrazione. 
 
-E’ possibile inoltre specificare i Tipi entità organizzative che possono utilizzare il Ruolo ed è specificato l’utilizzo del ruolo: Assegnabile a livello globale. Questa informazione specifica se nell’associazione Persona-Ruolo-Entità organizzativa è possibile o meno assegnare il ruolo ad una persona senza specificare l’entità organizzativa. L’assenza dell’entità organizzativa in questa associazione da la possibilità all’utente (persona) di espletare il Ruolo su tutte le entità organizzative dell’Ente.
+Tra le tipologie si può specificare anche il ruolo di tipo 'Gruppo'. In questo caso bisogna specificare i ruoli che fanno parte del gruppo.
+Il Gruppo dei Ruoli rappresenta una ulteriore parametrizzazione per poter gestire i Ruoli ‘Ereditati’. Ogni contesto può gestire i suoi raggruppamenti creando appunto un gruppo di ruoli che hanno caratteristiche simili. 
+Un Gruppo risulta automaticamente condiviso ad altri contesti, quando tutti i ruoli che ne fanno parte risultano condivisi.
 
-E' possibile, inoltre, rendere visibile da questa funzionalità il Ruolo ad altri contesti.
+E’ possibile inoltre, per il ruolo di tipo Utente Applicativo, specificare i Tipi entità organizzative che possono utilizzare il Ruolo ed è specificato l’utilizzo del ruolo: Assegnabile a livello globale. Questa informazione specifica se nell’associazione Persona-Ruolo-Entità organizzativa è possibile o meno assegnare il ruolo ad una persona senza specificare l’entità organizzativa. L’assenza dell’entità organizzativa in questa associazione da la possibilità all’utente (persona) di espletare il Ruolo su tutte le entità organizzative dell’Ente.
+
+E' possibile, infine, rendere visibile da questa funzionalità il Ruolo ad altri contesti. In questo caso il contesto a cui è condiviso il ruolo, può assegnare anche questo insieme agli altri ruolo del contesto di cui si è Manager o Gestore.
 
 Ci sono due funzionalità di ACE che consentono, successivamente alla creazione del Ruolo, la sua assegnazione ad Utenti oppure Persone.
 L'assegnazione alle persone, che avviene a cura del Gestore dei Ruoli di un Contesto, attribuisce i Ruoli a Persone ed eventuale Entità Organizzativa.
-Diversa invece è l’abilitazione ‘Ruolo Utente’ (funzionalità specifica utilizzabile solo dagli Amministratori del Sistema). Questa abilitazione serve per poter assegnare un Ruolo ad un Utente che non sia una Persona fisica (riservata ad esempio alle applicazioni che interrogano ACE). Ad esempio Scrivania Digitale potrebbe interrogare ACE per avere i ruoli sia del contesto ‘Scrivania Digitale’ sia alcuni ruoli del contesto ‘Missioni’ che gli verranno resi disponibili, perché avvia flussi anche per conto di Missioni.
+Diversa invece è l’abilitazione ‘Ruolo Utente’ (funzionalità specifica utilizzabile solo dagli Amministratori del Sistema). Questa abilitazione serve per poter assegnare un Ruolo ad un Utente che non sia una Persona fisica (riservata ad esempio alle applicazioni che interrogano ACE). 
 
-Il Gruppo dei Ruoli invece rappresenta una ulteriore parametrizzazione per poter gestire i Ruoli ‘Ereditati’. Ogni contesto può gestire i suoi raggruppamenti creando appunto un gruppo di ruoli che hanno caratteristiche simili. Ciò è possibile definendo dei Ruoli di tipo ‘raggruppatore’ e assegnando a questi i ruoli che ne fanno parte.
-Un Gruppo risulta automaticamente condiviso ad altri contesti, quando tutti i ruoli che ne fanno parte risultano condivisi.
+
 
 
 
