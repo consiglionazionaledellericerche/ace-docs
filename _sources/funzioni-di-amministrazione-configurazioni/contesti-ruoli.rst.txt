@@ -16,8 +16,8 @@ Il contesto di Sistema e i contesti  Istituzionali (per ruoli istituzionali inse
 Tutti i Ruoli, infine, sono assegnati ad Utenti oppure ad Utenti/Persone dell'applicazione per poter esercitare le funzioni relative.
 
 I Contesti vengono gestiti esclusivamente dall'Amministratore di ACE che si occupa anche di assegnare ad ognuno di essi:
-- Ruolo Amministratore del contesto;
-- Gestore del Contesto.
+-  Ruolo Amministratore del contesto;
+-  Gestore del Contesto.
 
 All’interno di un contesto vengono definiti i ruoli che ne fanno parte, esclusivamente dall'Amministratore del contesto, che si occupa anche di renderli visibili, alcuni o tutti, eventualmente ad altri contesti che hanno necessità di consultarli.
 Un ruolo può essere associato soltanto ad un contesto, quindi, ed essere reso visibile ad altri contesti in visualizzazione.
@@ -26,7 +26,7 @@ In sintesi per ogni contesto è specificato:
 
 -  Amministratore del contesto (Ruolo) – Chi ha assegnato questo ruolo è abilitato a gestire i ruoli del contesto, ad assegnare tutti i ruoli del contesto ed è abilitato a condividere i ruoli del contesto ad altri contesti;
 
--  Gestore del contesto (Ruolo) – Chi ha assegnato questo ruolo è abilitato solo ad assegnare tutti i ruoli del contesto di appartenenza.
+-  Gestore del contesto (Ruolo) – Chi ha assegnato questo ruolo è abilitato solo ad assegnare tutti i ruoli del contesto di appartenenza attraverso la funzione di 'assegnazione ruoli'.
 
 -  Il Contesto ‘SISTEMA’, che definisce i ruoli necessari al funzionamento di ACE, sarà gestibile solo dal Superutente.
 
@@ -34,7 +34,7 @@ Ruolo
 =====
 Il ruolo in ACE qualifica funzioni di tipo Istituzionali e mansioni di tipo Applicativo, come specificato al paragrafo precedente.
 
-Ci sono poi alcuni ruoli di SISTEMA per l’amministrazione del sistema ACE:
+Ci sono poi alcuni ruoli di SISTEMA per l’amministrazione di ACE:
 
 -  SUPERUTENTE: Gestore dell’Applicazione. Abilitato a tutto;
 
@@ -42,7 +42,15 @@ Ci sono poi alcuni ruoli di SISTEMA per l’amministrazione del sistema ACE:
 
 -  DEVELOPER: Ruolo di sviluppo utilizzato da applicazioni esterne ad ACE. Abilitato in lettura a tutti i dati;
 
--  USERS-VIEWS: Ruolo che consente la visualizzazione Ruoli-Utente.
+-  USERS-VIEWER: Ruolo che consente la visualizzazione dei dati anagrafici (Persone, Appartenenza);
+
+-  SEDI-VIEWER: Ruolo per la visualizzazione di Entità organizzative e gerarchie;
+
+-  Gestione Ufficio Sedi: Ruolo per la gestione delle Sedi e la loro assegnazione alla Gerarchia Sedi (Gerarchia scientifica e Amministrazione Centrale);
+
+-  Gestione RSU: Ruolo per la creazione di sedi RSU e gestione della gerarchia RSU;
+
+-  Supervisione Entità Locali: Ruolo per la gestione di indirizzi ed entità locali.
 
 Sui contesti abbiamo i ruoli che *concedono* particolari abilitazioni (come indicato prima: Ruolo Amministratore e Ruolo Gestore).
 
