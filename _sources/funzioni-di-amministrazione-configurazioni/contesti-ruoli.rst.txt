@@ -16,25 +16,27 @@ Il contesto di Sistema e i contesti  Istituzionali (per ruoli istituzionali inse
 Tutti i Ruoli, infine, sono assegnati ad Utenti oppure ad Utenti/Persone dell'applicazione per poter esercitare le funzioni relative.
 
 I Contesti vengono gestiti esclusivamente dall'Amministratore di ACE che si occupa anche di assegnare ad ognuno di essi:
--  Ruolo Amministratore del contesto;
--  Gestore del Contesto.
+- Ruolo Amministratore del contesto;
+- Gestore del Contesto.
 
 All’interno di un contesto vengono definiti i ruoli che ne fanno parte, esclusivamente dall'Amministratore del contesto, che si occupa anche di renderli visibili, alcuni o tutti, eventualmente ad altri contesti che hanno necessità di consultarli.
 Un ruolo può essere associato soltanto ad un contesto, quindi, ed essere reso visibile ad altri contesti in visualizzazione.
 
-In sintesi per ogni contesto è specificato:
+In sintesi per ogni contesto è possibile consultare:
 
--  Amministratore del contesto (Ruolo) – Chi ha assegnato questo ruolo è abilitato a gestire i ruoli del contesto, ad assegnare tutti i ruoli del contesto ed è abilitato a condividere i ruoli del contesto ad altri contesti;
+-  Ruoli Generici . Tutti i ruoli applicativi che sono stati creati e associati al contesto da parte dell'Amministratore;
 
--  Gestore del contesto (Ruolo) – Chi ha assegnato questo ruolo è abilitato solo ad assegnare tutti i ruoli del contesto di appartenenza attraverso la funzione di 'assegnazione ruoli'.
+-  Amministratore del contesto (Ruolo) – Chi ha assegnato questo ruolo è abilitato a gestire i ruoli del contesto, ad assegnare tutti i ruoli del contesto ed è abilitato a condividere i ruoli del contesto ad altri contesti (attraverso la funzione dei ruoli);
 
--  Il Contesto ‘SISTEMA’, che definisce i ruoli necessari al funzionamento di ACE, sarà gestibile solo dal Superutente.
+-  Gestore del contesto (Ruolo) – Chi ha assegnato questo ruolo è abilitato solo ad assegnare tutti i ruoli del contesto di appartenenza attraverso la funzione di 'assegnazione ruoli'. Il Gestore non accede all'anagrafica Contesti e Ruoli.
+
+-  Il Contesto ‘SISTEMA’, che definisce i ruoli necessari al funzionamento di ACE, non è modificabile da applicazione.
 
 Ruolo
 =====
 Il ruolo in ACE qualifica funzioni di tipo Istituzionali e mansioni di tipo Applicativo, come specificato al paragrafo precedente.
 
-Ci sono poi alcuni ruoli di SISTEMA per l’amministrazione di ACE:
+Ci sono poi alcuni ruoli di SISTEMA per l’amministrazione di ACE che hanno funzionalità predefinite:
 
 -  SUPERUTENTE: Gestore dell’Applicazione. Abilitato a tutto;
 
