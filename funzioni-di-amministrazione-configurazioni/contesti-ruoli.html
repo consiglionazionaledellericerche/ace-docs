@@ -712,22 +712,29 @@ Un ruolo può essere associato soltanto ad un contesto, quindi, ed essere reso v
 <p>Sui contesti abbiamo i ruoli che <em>concedono</em> particolari abilitazioni (come indicato prima: Ruolo Amministratore e Ruolo Gestore).</p>
 <p>Le informazioni previste nella definizione di un Ruolo sono, oltre a descrizione e sigla:</p>
 <ul class="simple">
-<li><p>Associazione obbligatoria del ruolo al contesto di appartenenza. Questo essere indicato all'atto della creazione del Ruolo stesso.</p></li>
-<li><p>Tipologia. In questo campo viene specificato il tipo di ruolo:</p></li>
+<li><p>Associazione obbligatoria del ruolo al contesto di appartenenza. Questo deve essere indicato all'atto della creazione del Ruolo stesso.</p></li>
+<li><p>Tipologia. In questo campo viene specificato il tipo di ruolo.
+Ruoli che servono per qualificare l'utenza all'esterno di ACE (da applicazioni a cui serve distinguere tali tipologie di utenze):</p></li>
 </ul>
 <blockquote>
 <div><ul class="simple">
-<li><p>Gestore,</p></li>
-<li><p>Amministratore,</p></li>
-<li><p>Generico (Utente Applicativo)</p></li>
+<li><p>Amministratore Applicativo,</p></li>
+<li><p>Utente Applicativo,</p></li>
+<li><p>Superutente Applicativo,</p></li>
+<li><p>Utente anonimo.</p></li>
 </ul>
+<p>Ruoli che qualificano l'utenza all'interno di ACE per consentire l'uso di alcune funzioni di amministrazione:
+-  Gestore,
+-  Amministratore,
+-  Generico (Utente Applicativo).</p>
 </div></blockquote>
-<p>oppure è possibile specificare un tipo di Ruolo di sistema solo se chi opera è un'utente di amministrazione.</p>
-<p>Tra le tipologie si può specificare anche il ruolo di tipo 'Gruppo'. In questo caso bisogna specificare i ruoli che fanno parte del gruppo.
-Il Gruppo dei Ruoli rappresenta una ulteriore parametrizzazione per poter gestire i Ruoli ‘Ereditati’. Ogni contesto può gestire i suoi raggruppamenti creando appunto un gruppo di ruoli che hanno caratteristiche simili.
-Un Gruppo risulta automaticamente condiviso ad altri contesti, quando tutti i ruoli che ne fanno parte risultano condivisi.</p>
-<p>E’ possibile inoltre, per il ruolo di tipo Utente Applicativo, specificare i Tipi entità organizzative che possono utilizzare il Ruolo ed è specificato l’utilizzo del ruolo: Assegnabile a livello globale. Questa informazione specifica se nell’associazione Persona-Ruolo-Entità organizzativa è possibile o meno assegnare il ruolo ad una persona senza specificare l’entità organizzativa. L’assenza dell’entità organizzativa in questa associazione da la possibilità all’utente (persona) di espletare il Ruolo su tutte le entità organizzative dell’Ente.</p>
-<p>E' possibile, infine, rendere visibile da questa funzionalità il Ruolo ad altri contesti. In questo caso il contesto a cui è condiviso il ruolo, può assegnare anche questo insieme agli altri ruolo del contesto di cui si è Manager o Gestore.</p>
+<p>Tra le tipologie si può specificare anche il ruolo di tipo 'Gruppo'. Questo ruolo non è assegnabile direttamente ad un'utente ma include una lista di ruoli che hanno caratteristiche simili. In questo caso bisogna specificare i ruoli che fanno parte del gruppo. Ad esempio è un Ruolo di tipo Gruppo il RESPONSABILE DI STRUTTURA che include tutti i ruoli che rappresentano la direzione di una entità organizzativa (Direttore, Dirigente, Presidente di Area ecc.).
+Ogni contesto può gestire i suoi raggruppamenti creando appunto un gruppo di ruoli che hanno caratteristiche simili.
+E' possibile condividere ad altri contesti sia il Gruppo di ruoli che i singoli ruoli.</p>
+<p>Diverso è il concetto di ereditarietà di un Ruolo. Questa utility rappresenta una ulteriore parametrizzazione per poter gestire quei gruppi che ereditano stesse caratteristiche di un altro ruolo. L'associazione avviene sul Ruolo <strong>ereditato</strong> il quale entra a far parte del gruppo specificato nel campo <strong>Associato al Gruppo</strong>.
+Ad esempio il Gestore di un contesto può essere ereditato dal Gruppo Responsabile di Struttura in modo da avere in automatico tutte le abilitazioni del gruppo stesso.</p>
+<p>E’ possibile inoltre, per il ruolo di tipo Utente Applicativo, specificare i Tipi entità organizzative che possono utilizzare il Ruolo ed è specificato la modalità di assegnazione del ruolo: Assegnabile a livello globale oppure no. Questa informazione specifica se nell’associazione Persona-Ruolo-Entità organizzativa è possibile o meno assegnare il ruolo ad una persona senza specificare l’entità organizzativa. L’assenza dell’entità organizzativa in questa associazione da la possibilità all’utente (persona) di espletare il Ruolo su tutte le entità organizzative dell’Ente.</p>
+<p>E' possibile, infine, rendere visibile da questa funzionalità il Ruolo ad altri contesti. In questo caso il contesto a cui è condiviso il ruolo, può assegnare anche questo insieme agli altri ruoli del contesto di cui si è Manager o Gestore.</p>
 <p>Ci sono due funzionalità di ACE che consentono, successivamente alla creazione del Ruolo, la sua assegnazione ad Utenti oppure Persone.
 L'assegnazione alle persone, che avviene a cura del Gestore dei Ruoli di un Contesto, attribuisce i Ruoli a Persone ed eventuale Entità Organizzativa.
 Diversa invece è l’abilitazione ‘Ruolo Utente’ (funzionalità specifica utilizzabile solo dagli Amministratori del Sistema). Questa abilitazione serve per poter assegnare un Ruolo ad un Utente che non sia una Persona fisica (riservata ad esempio alle applicazioni che interrogano ACE).</p>
