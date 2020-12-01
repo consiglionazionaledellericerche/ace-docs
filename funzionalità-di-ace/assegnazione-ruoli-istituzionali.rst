@@ -1,6 +1,46 @@
-====================
 Ruoli Istituzionali
 ===================
 
-- Ruoli Istituzionali non in Albo
-- Ruoli Istituzionali pubblicati in Albo
+I Ruoli Istituzionali si distinguono fondamentalmente in due gruppi:
+
+**- Ruoli Istituzionali non in Albo**
+**- Ruoli Istituzionali pubblicati in Albo**
+
+Ruoli Istituzionali non in Albo
+-------------------------------
+
+Il primo gruppo di ruoli è rappresentato da quei Ruoli definiti 'Istituzionali' perchè richiedono un provvedimento di nomina specifico. Rigurdano nomine della Rete scientifica,  non vengono pubblicate sull'albo dell'ente, e sono a cura dei Direttori di Istituto.
+Queste nomine vengono comunicate all'Ufficio Gestione delle Risorse Umane della Sede Centrale affinchè vengano censite e gestite nella procedura del personale per l'assegnazione di specifiche indennità.
+
+In ACE è stata utilizzata la funzionalità 'Assegnazione ruolo a persona ed entità organizzativa' per l’assegnazione dei ruoli a personale CNR e alle sedi per cui si esercita lo specifico ruolo. Queste informazioni vengono gestite dall'utente preposto che opera per tutte le sedi dell'ente.
+I ruoli in questione ad oggi sono:
+
+- RESPONSABILE DI SEDE SECONDARIA - Sede secondaria Istituto
+- RESPONSABILE DI AREA            - Area
+- DELEGATO AL CONTROLLO           -	Sede Principale Istituto, Dipartimento, Area
+- ECONOMO                         - sede principale e secondaria Istituto, Dipartimento, Area, Ufficio (SAC), Unità (SAC)
+- SEGRETARIO AMMINISTRATIVO       - Sede Principale Istituto, Dipartimento, Area
+- RESPONSABILE AMMINISTRATIVO     - Sede secondaria Istituto
+- RESPONSABILE DI SEGRETERIA      - Direzione generale, Dipartimento, Presidenza, Direzione centrale, Direzione, Dipartimento
+- RSPP (Responsabile di servizio prevenzione e protezione) - Direzione
+
+La funzionalità per la gestione di questi ruoli, oltre ad essere utilizzabile da menù, è accessibile attraverso la gerarchia Scientifica (Istituti).
+Le informazioni fondamentali, infatti, sono la Sede, la Persona ed il Ruolo. Scegliendo la Sede all’interno della gerarchia si può accedere direttamente alla funzionalità ‘Gestione Ruoli’ in cui automaticamente è preimpostato il contesto (proposto se c’è un solo contesto abilitato oppure la possibilità di scegliere dall’elenco ruoli gestibili dall’utente) e la sede. 
+Sarà poi possibile inserire le altre informazioni necessarie per completare l’assegnazione:
+
+- Persona (selezionare attraverso la ricerca) 
+- Sede (preimpostata se si è partiti dalla gerarchia)
+- Ruolo (selezionabili tra quelli associati al contesto specificato)
+- Da data, A data (impostare con il periodo della nomina)
+- Provvedimento (testo libero + Allegati)
+- Note
+Ci sono poi le informazioni relative all'indennità che vengono mostrate se sul contesto specificato è indicata 'Indennita' = S
+
+- Importo indennità (importo al momento inseribile dall’utente)
+- Indennità S/N (proposto = S e modificabile)
+
+Ruoli Istituzionali pubblicati in Albo
+--------------------------------------
+
+Per quanto riguarda il gruppo di Ruoli Istituzionali, vengono gestiti in Sede Centrale
+
