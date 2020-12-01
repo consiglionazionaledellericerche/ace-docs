@@ -24,6 +24,29 @@ I ruoli in questione ad oggi sono:
 - RESPONSABILE DI SEGRETERIA      - Direzione generale, Dipartimento, Presidenza, Direzione centrale, Direzione, Dipartimento
 - RSPP (Responsabile di servizio prevenzione e protezione) - Direzione
 
+Tali ruoli fanno parte del contesto ACE 'RUOLI ISTITUZIONALI NON IN ALBO'
+
+
+Ruoli Istituzionali pubblicati in Albo
+--------------------------------------
+
+Per quanto riguarda il gruppo di Ruoli Istituzionali pubblicati sull'Albo dell'Ente, i relativi Provvedimenti vengono gestiti in Sede Centrale, firmati dal Direttore Generale e pubblicati sull'albo.
+Questi ruoli riguardano le seguenti tipologie:
+
+- 01 DIRETTORE
+- 03 DIRIGENTE AD INTERIM (GIÀ AD INTERIM FINO AL 04 03 2009)
+- 04 RESPONSABILE
+- 05 DIRIGENTE
+- 06 DIRETTORE FACENTE FUNZIONE
+- 07 DIRETTORE AD INTERIM
+- 11 DIRETTORE GENERALE F.F.    
+- 14 PRESIDENTE DI AREA
+- 15 RESPONSABILE DI AREA
+
+- 09 DELEGATO
+
+Questi ruoli fanno parte del contesto ACE 'RUOLI ISTITUZIONALI'
+
 La funzionalità per la gestione di questi ruoli, oltre ad essere utilizzabile da menù, è accessibile attraverso la gerarchia Scientifica (Istituti).
 Le informazioni fondamentali, infatti, sono la Sede, la Persona ed il Ruolo. Scegliendo la Sede all’interno della gerarchia si può accedere direttamente alla funzionalità ‘Gestione Ruoli’ in cui automaticamente è preimpostato il contesto (proposto se c’è un solo contesto abilitato oppure la possibilità di scegliere dall’elenco ruoli gestibili dall’utente) e la sede. 
 Sarà poi possibile inserire le altre informazioni necessarie per completare l’assegnazione:
@@ -34,13 +57,15 @@ Sarà poi possibile inserire le altre informazioni necessarie per completare l�
 - Da data, A data (impostare con il periodo della nomina)
 - Provvedimento (testo libero + Allegati)
 - Note
-Ci sono poi le informazioni relative all'indennità che vengono mostrate se sul contesto specificato è indicata 'Indennita' = S
+
+Informazioni aggiuntive
+-----------------------
+
+Per i contesti che gestiscono le indennità (Ruoli istituzionali in Albo e Non in Albo) Ci sono poi le informazioni relative all'indennità che vengono mostrate se sul contesto specificato è indicata 'Indennita' = S
 
 - Importo indennità (importo al momento inseribile dall’utente)
 - Indennità S/N (proposto = S e modificabile)
 
-Ruoli Istituzionali pubblicati in Albo
---------------------------------------
 
-Per quanto riguarda il gruppo di Ruoli Istituzionali, vengono gestiti in Sede Centrale
+
 
