@@ -65,3 +65,6 @@ due ruoli definiti rispetto alle Sedi, con l’indicazione della data
 inizio e fine di validità. Tali dati sono gestiti nelle procedure di
 origine già indicate per la gestione delle persone e vengono riportati
 in ACE con le stesse modalità indicate per le Persone.
+
+La funzionalità presente in ACE propone i dati delle 'appartenenze' alla data di consultazione (indicata in alto automaticamente all'ingresso nella mappa).
+Nel caso si volesse conoscere lo storico di queste informazioni è possibile modificare la data indicata, inserendo la data alla quale si vuole visualizzare lo storico, oppure può essere completamente eliminata tale data per consultare tutti i dati di storico.
