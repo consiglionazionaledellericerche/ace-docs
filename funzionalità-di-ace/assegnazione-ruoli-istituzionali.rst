@@ -77,7 +77,8 @@ E dati di sola visualizzazione:
   - Nominativo 
   - Matricola
   - Fascicolo NSIP (?)
-  - Data di nascita
+  - Data di nascita 
+  - Numero di telefono
   - Contratto/Livello/Profilo
  
  - Per la Sede specificata visualizzare:
