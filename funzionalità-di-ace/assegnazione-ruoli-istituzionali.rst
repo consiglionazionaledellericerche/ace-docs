@@ -69,7 +69,7 @@ Ci sono dati da inserire:
 - Indennità S/N (proposto = S e modificabile)
 - Importo indennità (importo al momento inseribile dall’utente)
 - SOAL (S/N)
-- N. Bando (anche se dovrebbe essere incluso nel provvedimento)
+- Bando (anche se dovrebbe essere incluso nel provvedimento)
 
 E dati di sola visualizzazione:
 
