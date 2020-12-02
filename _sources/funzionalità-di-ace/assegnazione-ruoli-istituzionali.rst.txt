@@ -91,9 +91,7 @@ E dati di sola visualizzazione:
   
 - Per il ruolo specificato:
 
-  - la consultazione senza indicazione di 'data consultazione' dovrebbe mostrare lo storico con data inizio e fine validità (una volta migrato lo storico)
-
-Gestire una consultazione per vedere tutti i ruoli cessati per Persona/sede/ruolo.
+  - Gestire una consultazione specifica per vedere tutti i ruoli cessati per Persona/sede/ruolo.
 
 
 
