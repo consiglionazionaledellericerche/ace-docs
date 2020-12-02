@@ -4,6 +4,7 @@ Ruoli Istituzionali
 I Ruoli Istituzionali si distinguono fondamentalmente in due gruppi:
 
 **- Ruoli Istituzionali non in Albo**
+
 **- Ruoli Istituzionali pubblicati in Albo**
 
 Ruoli Istituzionali non in Albo
@@ -30,7 +31,7 @@ Tali ruoli fanno parte del contesto ACE 'RUOLI ISTITUZIONALI NON IN ALBO'
 Ruoli Istituzionali pubblicati in Albo
 --------------------------------------
 
-Per quanto riguarda il gruppo di Ruoli Istituzionali pubblicati sull'Albo dell'Ente, i relativi Provvedimenti vengono gestiti in Sede Centrale, firmati dal Direttore Generale e pubblicati sull'albo.
+Per quanto riguarda il gruppo di Ruoli Istituzionali pubblicati sull'Albo dell'Ente, i relativi Provvedimenti vengono gestiti in Sede Centrale, firmati dal Direttore Generale o dal Presidente, a seconda del ruolo, e pubblicati sull'albo.
 Questi ruoli riguardano le seguenti tipologie:
 
 - 01 DIRETTORE
@@ -47,8 +48,8 @@ Questi ruoli riguardano le seguenti tipologie:
 
 Questi ruoli fanno parte del contesto ACE 'RUOLI ISTITUZIONALI'
 
-La funzionalità per la gestione di questi ruoli, oltre ad essere utilizzabile da menù, è accessibile attraverso la gerarchia Scientifica (Istituti).
-Le informazioni fondamentali, infatti, sono la Sede, la Persona ed il Ruolo. Scegliendo la Sede all’interno della gerarchia si può accedere direttamente alla funzionalità ‘Gestione Ruoli’ in cui automaticamente è preimpostato il contesto (proposto se c’è un solo contesto abilitato oppure la possibilità di scegliere dall’elenco ruoli gestibili dall’utente) e la sede. 
+La funzionalità per la gestione di questi ruoli, oltre ad essere utilizzabile da menù, è accessibile attraverso la gerarchia, sia quella Scientifica (Istituti) che quella relativa all'Amministrazione della Sede Centrale.
+Le informazioni fondamentali sono la Sede, la Persona ed il Ruolo. Scegliendo la Sede all’interno della gerarchia si può accedere direttamente alla funzionalità ‘Gestione Ruoli Entità Organizzativa’ in cui automaticamente è preimpostato il contesto (proposto se c’è un solo contesto abilitato per l'utente, oppure la possibilità di scegliere dall’elenco contesti gestibili dall’utente) e la sede. 
 Sarà poi possibile inserire le altre informazioni necessarie per completare l’assegnazione:
 
 - Persona (selezionare attraverso la ricerca) 
@@ -61,10 +62,16 @@ Sarà poi possibile inserire le altre informazioni necessarie per completare l�
 Informazioni aggiuntive
 -----------------------
 
-Per i contesti che gestiscono le indennità (Ruoli istituzionali in Albo e Non in Albo) Ci sono poi le informazioni relative all'indennità che vengono mostrate se sul contesto specificato è indicata 'Indennita' = S
+Per i contesti che gestiscono le indennità (Contesti Istituzionali configurati con Indennità = S) vengono visualizzate informazioni aggiuntive, per meglio individuare il livello/profilo della Persona e il tipo di indennità da attribuire.
 
-- Importo indennità (importo al momento inseribile dall’utente)
-- Indennità S/N (proposto = S e modificabile)
+Ci sono dati da inserire:
+
+- Indennità S/N (proposto = S e modificabile);
+- Importo indennità (importo al momento inseribile dall’utente);
+
+E dati di sola visualizzazione:
+
+
 
 
 
