@@ -88,10 +88,11 @@ E dati di sola visualizzazione:
   - Direttore (Responsabile di struttura; avvisare nel caso fosse vacante)
   - Fascia di appartenenza dell'Istituto (da gestire per le Entità Organizzative di una certa tipologia, storicizzando le informazione per Sede/data inizio e fine validità)
   
-- Per il ruolo specificato
+- Per il ruolo specificato:
+
   - la consultazione senza indicazione di 'data consultazione' dovrebbe mostrare lo storico con data inizio e fine validità (una volta migrato lo storico)
 
-Gestire lo storico quando la funzionalità Master sarà quella di ACE (ad oggi sono migrati da NSIP solo i ruoli attivi).
+Gestire una consultazione per vedere tutti i ruoli cessati per Persona/sede/ruolo.
 
 
 
