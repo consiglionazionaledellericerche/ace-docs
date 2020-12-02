@@ -21,4 +21,4 @@ Ruoli
   funzionalità-di-ace/gestione-delle-gerarchie.rst
   funzionalità-di-ace/persone.rst
   funzionalità-di-ace/gestione-ruoli.rst
-  assegnazione-ruoli-istituzionali.rst
+  funzionalità-di-ace/assegnazione-ruoli-istituzionali.rst
