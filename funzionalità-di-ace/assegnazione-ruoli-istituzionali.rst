@@ -82,7 +82,7 @@ E dati di sola visualizzazione:
   - Numero di telefono
   - Contratto/Livello/Profilo
  
- - Per la Sede specificata visualizzare:
+- Per la Sede specificata visualizzare:
  
   - Codice/Descrizione
   - Sigla
