@@ -35,7 +35,7 @@ Per quanto riguarda il gruppo di Ruoli Istituzionali pubblicati sull'Albo dell'E
 Questi ruoli riguardano le seguenti tipologie:
 
 - 01 DIRETTORE
-- 03 DIRIGENTE AD INTERIM (GIÀ AD INTERIM FINO AL 04 03 2009)
+- 03 DIRIGENTE AD INTERIM 
 - 04 RESPONSABILE
 - 05 DIRIGENTE
 - 06 DIRETTORE FACENTE FUNZIONE
@@ -66,12 +66,32 @@ Per i contesti che gestiscono le indennità (Contesti Istituzionali configurati 
 
 Ci sono dati da inserire:
 
-- Indennità S/N (proposto = S e modificabile);
-- Importo indennità (importo al momento inseribile dall’utente);
+- Indennità S/N (proposto = S e modificabile)
+- Importo indennità (importo al momento inseribile dall’utente)
+- SOAL (S/N)
+- N. Bando (anche se dovrebbe essere incluso nel provvedimento)
 
 E dati di sola visualizzazione:
 
+- Per la persona specificata visualizzare:
+  - Nominativo 
+  - Matricola
+  - Fascicolo NSIP (?)
+  - Data di nascita
+  - Contratto/Livello/Profilo
+ 
+ - Per la Sede specificata visualizzare:
+  - Codice/Descrizione
+  - Sigla
+  - UO
+  - Entità locale
+  - Direttore (Responsabile di struttura; avvisare nel caso fosse vacante)
+  - Fascia di appartenenza dell'Istituto (da gestire per le Entità Organizzative di una certa tipologia, storicizzando le informazione per Sede/data inizio e fine validità)
+  
+- Per il ruolo specificato
+  - la consultazione senza indicazione di 'data consultazione' dovrebbe mostrare lo storico con data inizio e fine validità (una volta migrato lo storico)
 
+Gestire lo storico quando la funzionalità Master sarà quella di ACE (ad oggi sono migrati da NSIP solo i ruoli attivi).
 
 
 
