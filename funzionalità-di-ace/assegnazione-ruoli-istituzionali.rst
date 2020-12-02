@@ -74,6 +74,7 @@ Ci sono dati da inserire:
 E dati di sola visualizzazione:
 
 - Per la persona specificata visualizzare:
+
   - Nominativo 
   - Matricola
   - Fascicolo NSIP (?)
@@ -82,6 +83,7 @@ E dati di sola visualizzazione:
   - Contratto/Livello/Profilo
  
  - Per la Sede specificata visualizzare:
+ 
   - Codice/Descrizione
   - Sigla
   - UO
