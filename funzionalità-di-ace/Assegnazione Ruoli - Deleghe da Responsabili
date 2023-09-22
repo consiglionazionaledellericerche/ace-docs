@@ -1,99 +1,54 @@
-Ruoli Istituzionali
-===================
+Assegnazione-Delega Ruoli da parte dei Responsabili
+===================================================
+La funzione di Assegnazione Ruoli, con opportune abilitazioni, può essere utilizzata anche direttamente dai Responsabili di strutture CNR per delegare alcuni dei propri ruoli.
 
-I Ruoli Istituzionali si distinguono fondamentalmente in due gruppi:
+Questa sezione del manuale ha l’obiettivo di fornire le informazioni sull’utilizzo della funzionalità di Assegnazione Ruolo di **Gestore Borse di Ricerca**  (presente in ACE), accessibile direttamente dalla procedura **Selezioni online**. 
+Questo ruolo consente di creare e modificare i Bandi di Borse di Ricerca per una determinata struttura CNR.
 
-**- Ruoli Istituzionali non in Albo**
+La funzionalità è diretta, quindi, a tutti i Responsabili di una Struttura CNR (Dirigenti/Direttori/Responsabili di Unità ecc.) affinché possano assegnare (o per meglio dire Delegare) il proprio ruolo di **Gestore Borse di Ricerca**, 
+solo per la struttura di appartenenza (Area/Dipartimeno/Istituto/Ufficio o Unità della Sede Centrale) e solo a persone assegnate alla struttura di cui si è Responsabile.
 
-**- Ruoli Istituzionali pubblicati in Albo**
+L’uso di questa funzionalità ha lo scopo di agevolare i Responsabili delle strutture CNR rendendoli autonomi nella delega di alcune procedure amministrative a loro carico (perché previste in relazione al ruolo di Responsabile Struttura). 
+Nel caso specifico si parla della creazione, pubblicazione ed eventuale modifica dei Bandi delle Borse di ricerca.
 
-Ruoli Istituzionali non in Albo
+Il Responsabile potrà sempre verificare, dopo l’assegnazione del ruolo, le deleghe inserite, il periodo e la Sede interessati alle deleghe.
+Può in qualsiasi momento ‘chiudere’ un’assegnazione, revocando di fatto la delega concessa.
+
+
+Accesso alla nuova funzionalità
 -------------------------------
+La funzionalità è accessibile direttamente dalla Procedura Selezioni online come mostrato nella figura seguente:
 
-Il primo gruppo di ruoli è rappresentato da quei Ruoli definiti 'Istituzionali' perchè richiedono un provvedimento di nomina specifico. Rigurdano nomine della Rete scientifica,  non vengono pubblicate sull'albo dell'ente, e sono a cura dei Direttori di Istituto.
-Queste nomine vengono comunicate all'Ufficio Gestione delle Risorse Umane della Sede Centrale affinchè vengano censite e gestite nella procedura del personale per l'assegnazione di specifiche indennità.
+**************************
 
-In ACE è stata utilizzata la funzionalità 'Assegnazione ruolo a persona ed entità organizzativa' per l’assegnazione dei ruoli a personale CNR e alle sedi per cui si esercita lo specifico ruolo. Queste informazioni vengono gestite dall'utente preposto che opera per tutte le sedi dell'ente.
-I ruoli in questione ad oggi sono:
+Assegnazione del Ruolo Gestore Borse di Ricerca
+------------------------------------------------
+Utilizzando la voce di menù indicata nella figura precedente si accede alla funzione ‘Assegnazione Ruoli’ di ACE:
 
-- RESPONSABILE DI SEDE SECONDARIA - Sede secondaria Istituto
-- RESPONSABILE DI AREA            - Area
-- DELEGATO AL CONTROLLO           -	Sede Principale Istituto, Dipartimento, Area
-- ECONOMO                         - sede principale e secondaria Istituto, Dipartimento, Area, Ufficio (SAC), Unità (SAC)
-- SEGRETARIO AMMINISTRATIVO       - Sede Principale Istituto, Dipartimento, Area
-- RESPONSABILE AMMINISTRATIVO     - Sede secondaria Istituto
-- RESPONSABILE DI SEGRETERIA      - Direzione generale, Dipartimento, Presidenza, Direzione centrale, Direzione, Dipartimento
-- RSPP (Responsabile di servizio prevenzione e protezione) - Direzione
+*************************************************
+Come si può notare dalla figura precedente, la funzionalità si apre impostando la data del giorno e il contesto di riferimento **Selezioni online**.
+Queste impostazioni predefinite mostreranno solo i ruoli che il Responsabile ha delegato per la gestione delle Borse di Ricerca (contesto: Selezioni online) e solo quelli validi alla data del giorno (impostata sulla maschera).
 
-Tali ruoli fanno parte del contesto ACE 'RUOLI ISTITUZIONALI NON IN ALBO'
+Per effettuare nuove assegnazioni bisogna utilizzare il pulsante **Nuovo**. Si presenterà la maschera di inserimento dove risulterà impostato il contesto **Selezioni online** e il ruolo **Borse di Ricerca** (se in futuro saranno previsti più ruoli per lo stesso contesto, 
+l’utente dovrà scegliere il Ruolo per cui sta creando l’assegnazione):
 
+***************************************************
+Per completare l’inserimento bisogna indicare la persona, la data inizio e fine validità, e l’Entità Organizzativa cioè la sede della struttura interessata alla delega.
 
-Ruoli Istituzionali pubblicati in Albo
---------------------------------------
+- **La persona** è possibile selezionarla specificando nome, cognome o matricola o parti di essi in modo da riecevere una lista di persone rispondente ai requisiti impostati, e limitata alle persone della struttura di cui si è responsabili. 
 
-Per quanto riguarda il gruppo di Ruoli Istituzionali pubblicati sull'Albo dell'Ente, i relativi Provvedimenti vengono gestiti in Sede Centrale, firmati dal Direttore Generale o dal Presidente, a seconda del ruolo, e pubblicati sull'albo.
-Questi ruoli riguardano le seguenti tipologie:
+- **Data inizio e fine validità**: le date specificate andranno ad individuare il periodo in cui la persona che riceve la delega potrà accedere in Selezioni online e gestire le borse di ricerca.
 
-- 01 DIRETTORE
-- 03 DIRIGENTE AD INTERIM 
-- 04 RESPONSABILE
-- 05 DIRIGENTE
-- 06 DIRETTORE FACENTE FUNZIONE
-- 07 DIRETTORE AD INTERIM
-- 11 DIRETTORE GENERALE F.F.    
-- 14 PRESIDENTE DI AREA
-- 15 RESPONSABILE DI AREA
+- **Entità Organizzativa**: rappresenta la sede per la quale si concede la delega. Se si tratta di Istituti, ogni sede può gestire le sue Borse di Ricerca e quindi delegare persone diverse per ogni sede. Se l’entità organizzativa specificata è la sede di tipo **Istituto** (e non la singola sede) vuol dire che saranno gestite Borse di Ricerca per l’intero Istituto.
 
-- 09 DELEGATO
+- **Provvedimento e Note**: sono campi destrittivi dove è possibile specificare il numero-data provvedimento e le note.
 
-Questi ruoli fanno parte del contesto ACE 'RUOLI ISTITUZIONALI'
+Dopo il completamento delle informazioni è possibile Salvare tramite l’apposito pulsante in fondo alla maschera, oppure Annullare e tornare alla maschera precedente.
 
-La funzionalità per la gestione di questi ruoli, oltre ad essere utilizzabile da menù, è accessibile attraverso la gerarchia, sia quella Scientifica (Istituti) che quella relativa all'Amministrazione della Sede Centrale.
-Le informazioni fondamentali sono la Sede, la Persona ed il Ruolo. Scegliendo la Sede all’interno della gerarchia si può accedere direttamente alla funzionalità ‘Gestione Ruoli Entità Organizzativa’ in cui automaticamente è preimpostato il contesto (proposto se c’è un solo contesto abilitato per l'utente, oppure la possibilità di scegliere dall’elenco contesti gestibili dall’utente) e la sede. 
-Sarà poi possibile inserire le altre informazioni necessarie per completare l’assegnazione:
+Dalla griglia delle assegnazioni è possibile visualizzare o modificare le informazioni specificate in fase di creazione, è possibile **chiudere** l’assegnazione indicando la Data fine validità (non è possibile cancellare un’assegnazione al fine di consultare in futuro lo storico di queste informazioni).
+La visualizzazione e la modifica propongono la maschera, utilizzata in fase di creazione. 
+In caso di modifica è sufficiente svuotare il campo utilizzando il pulsante di cancellazione (x), posto accanto ad ogni dato modificabile, e indicare le nuove informazioni:
 
-- Persona (selezionare attraverso la ricerca) 
-- Sede (preimpostata se si è partiti dalla gerarchia)
-- Ruolo (selezionabili tra quelli associati al contesto specificato)
-- Da data, A data (impostare con il periodo della nomina)
-- Provvedimento (testo libero + Allegati)
-- Note
-
-Informazioni aggiuntive
------------------------
-
-Per i contesti che gestiscono le indennità (Contesti Istituzionali configurati con Indennità = S) vengono visualizzate informazioni aggiuntive, per meglio individuare il livello/profilo della Persona e il tipo di indennità da attribuire.
-
-Ci sono dati da inserire:
-
-- Indennità S/N (proposto = S e modificabile)
-- Importo indennità (importo al momento inseribile dall’utente)
-- SOAL (S/N)
-- Bando (anche se dovrebbe essere incluso nel provvedimento)
-
-E dati di sola visualizzazione:
-
-- Per la persona specificata visualizzare:
-
-  - Nominativo 
-  - Matricola
-  - Fascicolo NSIP (?)
-  - Data di nascita 
-  - Numero di telefono
-  - Contratto/Livello/Profilo
- 
-- Per la Sede specificata visualizzare:
- 
-  - Codice/Descrizione
-  - Sigla
-  - UO
-  - Entità locale
-  - Direttore (Responsabile di struttura; avvisare nel caso fosse vacante)
-  - Fascia di appartenenza dell'Istituto (da gestire per le Entità Organizzative di una certa tipologia, storicizzando le informazione per Sede/data inizio e fine validità)
-  
-- Per il ruolo specificato:
-
-  - Gestire una consultazione specifica per vedere tutti i ruoli cessati per Persona/sede/ruolo.
 
 
 
