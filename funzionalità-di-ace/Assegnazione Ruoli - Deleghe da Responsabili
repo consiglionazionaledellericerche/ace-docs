@@ -14,6 +14,8 @@ Nel caso specifico si parla della creazione, pubblicazione ed eventuale modifica
 Il Responsabile potrà sempre verificare, dopo l’assegnazione del ruolo, le deleghe inserite, il periodo e la Sede interessati alle deleghe.
 Può in qualsiasi momento ‘chiudere’ un’assegnazione, revocando di fatto la delega concessa.
 
+La funzionalità in futuro sarà utilizzabile anche in altri contesti (come ad esempio Missioni) in modo da rendere autonomi i Responsabili di strutture CNR, nella delega o assegnazione di ruoli di loro competenza.
+
 
 Accesso alla nuova funzionalità
 -------------------------------
@@ -48,6 +50,20 @@ Dopo il completamento delle informazioni è possibile Salvare tramite l’apposi
 Dalla griglia delle assegnazioni è possibile visualizzare o modificare le informazioni specificate in fase di creazione, è possibile **chiudere** l’assegnazione indicando la Data fine validità (non è possibile cancellare un’assegnazione al fine di consultare in futuro lo storico di queste informazioni).
 La visualizzazione e la modifica propongono la maschera, utilizzata in fase di creazione. 
 In caso di modifica è sufficiente svuotare il campo utilizzando il pulsante di cancellazione (x), posto accanto ad ogni dato modificabile, e indicare le nuove informazioni:
+
+********************************
+
+E’ possibile infine aggiungere alla specifica assegnazione degli allegati:
+
+***********************************
+
+Per ogni allegato si potrà indicare una descrizione.
+Successivamente dallo stesso pulsante sarà possibile aggiungere, modificare o annullare allegati:
+
+**************************
+
+
+
 
 
 
