@@ -19,25 +19,21 @@ La funzionalità in futuro sarà utilizzabile anche in altri contesti (come ad e
 
 Accesso alla nuova funzionalità
 -------------------------------
-La funzionalità è accessibile direttamente dalla Procedura Selezioni online come mostrato nella figura seguente:
-
-**************************
+La funzionalità è accessibile direttamente dalla Procedura Selezioni online, tramite la voce **Assegnazione Ruoli** posta in alto nel menù delle funzionalità disponibili.
 
 Assegnazione del Ruolo Gestore Borse di Ricerca
 ------------------------------------------------
-Utilizzando la voce di menù indicata nella figura precedente si accede alla funzione ‘Assegnazione Ruoli’ di ACE:
+Utilizzando la funzionalità indicata al paragrafo precedente, si accede alla funzione **Assegnazione Ruoli** di ACE.
 
-*************************************************
-Come si può notare dalla figura precedente, la funzionalità si apre impostando la data del giorno e il contesto di riferimento **Selezioni online**.
-Queste impostazioni predefinite mostreranno solo i ruoli che il Responsabile ha delegato per la gestione delle Borse di Ricerca (contesto: Selezioni online) e solo quelli validi alla data del giorno (impostata sulla maschera).
+La funzionalità si apre impostando la data del giorno e il contesto di riferimento **Selezioni online** ed eseguendo direttamente la ricerca.
+Queste impostazioni predefinite mostreranno, se sono già state effettuate assegnazioni, solo i ruoli che il Responsabile ha delegato per la gestione delle Borse di Ricerca (contesto: Selezioni online) e solo quelli validi alla data del giorno (impostata sulla maschera).
 
-Per effettuare nuove assegnazioni bisogna utilizzare il pulsante **Nuovo**. Si presenterà la maschera di inserimento dove risulterà impostato il contesto **Selezioni online** e il ruolo **Borse di Ricerca** (se in futuro saranno previsti più ruoli per lo stesso contesto, 
-l’utente dovrà scegliere il Ruolo per cui sta creando l’assegnazione):
+Per effettuare nuove assegnazioni bisogna utilizzare il pulsante **Nuovo**. Si presenterà la maschera di inserimento dove risulterà impostato il contesto **Selezioni online** e il ruolo **Borse di Ricerca** (se in futuro sarà prevista l'assegnazione di altri ruoli, oltre al Gestore Borse di Ricerca, per lo stesso contesto, 
+l’utente dovrà selezionare il Ruolo per cui sta creando l’assegnazione, dalla lista dei ruoli assegnabili).
 
-***************************************************
 Per completare l’inserimento bisogna indicare la persona, la data inizio e fine validità, e l’Entità Organizzativa cioè la sede della struttura interessata alla delega.
 
-- **La persona** è possibile selezionarla specificando nome, cognome o matricola o parti di essi in modo da riecevere una lista di persone rispondente ai requisiti impostati, e limitata alle persone della struttura di cui si è responsabili. 
+- **La persona** è possibile selezionarla specificando nome, cognome o matricola, o parti di essi, in modo da riecevere una lista di persone rispondente ai requisiti impostati e limitata alle persone della struttura di cui si è responsabili. 
 
 - **Data inizio e fine validità**: le date specificate andranno ad individuare il periodo in cui la persona che riceve la delega potrà accedere in Selezioni online e gestire le borse di ricerca.
 
@@ -45,24 +41,15 @@ Per completare l’inserimento bisogna indicare la persona, la data inizio e fin
 
 - **Provvedimento e Note**: sono campi destrittivi dove è possibile specificare il numero-data provvedimento e le note.
 
-Dopo il completamento delle informazioni è possibile Salvare tramite l’apposito pulsante in fondo alla maschera, oppure Annullare e tornare alla maschera precedente.
+Dopo il completamento delle informazioni è possibile **Salvare** tramite l’apposito pulsante in fondo alla maschera, oppure **Annullare** e tornare alla maschera precedente.
 
 Dalla griglia delle assegnazioni è possibile visualizzare o modificare le informazioni specificate in fase di creazione, è possibile **chiudere** l’assegnazione indicando la Data fine validità (non è possibile cancellare un’assegnazione al fine di consultare in futuro lo storico di queste informazioni).
 La visualizzazione e la modifica propongono la maschera, utilizzata in fase di creazione. 
-In caso di modifica è sufficiente svuotare il campo utilizzando il pulsante di cancellazione (x), posto accanto ad ogni dato modificabile, e indicare le nuove informazioni:
+In caso di modifica è sufficiente svuotare il campo utilizzando il pulsante di cancellazione (x), posto accanto ad ogni dato modificabile, e indicare le nuove informazioni.
 
-********************************
-
-E’ possibile infine aggiungere alla specifica assegnazione degli allegati:
-
-***********************************
-
+E’ possibile infine aggiungere alla specifica assegnazione degli allegati, dalla griglia di visualizzazione, utilizzando l'apposito tastino per la gestione allegati.
 Per ogni allegato si potrà indicare una descrizione.
-Successivamente dallo stesso pulsante sarà possibile aggiungere, modificare o annullare allegati:
-
-**************************
-
-
+Successivamente dallo stesso pulsante sarà possibile aggiungere, modificare o annullare gli allegati.
 
 
 
