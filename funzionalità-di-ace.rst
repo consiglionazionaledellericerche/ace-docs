@@ -22,3 +22,4 @@ Ruoli
   funzionalità-di-ace/persone.rst
   funzionalità-di-ace/gestione-ruoli.rst
   funzionalità-di-ace/assegnazione-ruoli-istituzionali.rst
+  funzionalità-di-ace/assegnazione-ruoli-deleghe-da-responsabili.rst
