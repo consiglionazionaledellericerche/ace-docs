@@ -6,10 +6,10 @@ Questa sezione del manuale ha l’obiettivo di fornire le informazioni sull’ut
 Il ruolo **Gestore Borse di Ricerca** consente di creare e modificare i Bandi di Borse di Ricerca per una determinata struttura CNR.
 Il ruolo **Gestione Bollo Virtuale** consente di inserire atti soggetti a Bollo nella procedura GEBOV per una determinata struttura CNR.
 
-La funzionalità è diretta, quindi, a tutti i Responsabili di una Struttura CNR (Dirigenti/Direttori/Responsabili di Unità ecc.) affinché possano assegnare (o per meglio dire Delegare) il proprio ruolo di **Gestore Borse di Ricerca** e di **Gestione Bollo Virtuale**, solo per la struttura di appartenenza (Area/Dipartimeno/Istituto/Ufficio o Unità della Sede Centrale) e solo a persone assegnate alla struttura di cui si è Responsabile.
+La funzionalità è diretta, quindi, a tutti i Responsabili di una Struttura CNR (Dirigenti/Direttori/Responsabili di Unità ecc.) affinché possano assegnare (o per meglio dire Delegare) il proprio ruolo di **Gestore Borse di Ricerca** e di **Gestione Bollo Virtuale**, solo per la struttura di appartenenza (Area/Dipartimento/Istituto/Ufficio o Unità della Sede Centrale) e solo a persone assegnate alla struttura di cui si è Responsabile.
 
 L’uso di questa funzionalità ha lo scopo di agevolare i Responsabili delle strutture CNR rendendoli autonomi nella delega di alcune procedure amministrative a loro carico (perché previste in relazione al ruolo di Responsabile Struttura). 
-Nel caso specifico si parla della creazione, pubblicazione ed eventuale modifica dei Bandi delle Borse di ricerca e di inserimento Atti assoggettati a BOllo per il successivo versamento da parte della Sede Centrale.
+Nel caso specifico si parla della creazione, pubblicazione ed eventuale modifica dei Bandi delle Borse di ricerca e di inserimento Atti assoggettati a Bollo per il successivo versamento da parte della Sede Centrale.
 
 Il Responsabile potrà sempre verificare, dopo l’assegnazione del ruolo, le deleghe inserite, il periodo e la Sede interessati alle deleghe.
 Può in qualsiasi momento ‘chiudere’ un’assegnazione, revocando di fatto la delega concessa.
@@ -28,17 +28,17 @@ Utilizzando la funzionalità indicata al paragrafo precedente, si accede alla fu
 La funzionalità si apre impostando la data del giorno e il contesto di riferimento **Selezioni online** oppure **Gestione Bollo Virtuale** ed eseguendo direttamente la ricerca.
 Queste impostazioni predefinite mostreranno, se sono già state effettuate assegnazioni, solo i ruoli che il Responsabile ha già delegato per il contesto di riferimento (contesto: Selezioni online/Gestione Bollo Virtuale) e solo quelli validi alla data del giorno (impostata sulla maschera).
 
-Per effettuare nuove assegnazioni bisogna utilizzare il pulsante **Nuovo**. Si presenterà la maschera di inserimento dove risulterà impostato il contesto impostato all'inizio e il ruolo relativo alla gestiione di provenienza (se in futuro sarà prevista l'assegnazione di più ruoli per lo stesso contesto, l’utente dovrà selezionare il Ruolo per cui sta creando l’assegnazione, dalla lista dei ruoli assegnabili).
+Per effettuare nuove assegnazioni bisogna utilizzare il pulsante **Nuovo**. Si presenterà la maschera di inserimento dove risulterà impostato il contesto impostato all'inizio e il ruolo relativo alla gestione di provenienza (se in futuro sarà prevista l'assegnazione di più ruoli per lo stesso contesto, l’utente dovrà selezionare il Ruolo per cui sta creando l’assegnazione, dalla lista dei ruoli assegnabili).
 
 Per completare l’inserimento bisogna indicare la persona, la data inizio e fine validità, e l’Entità Organizzativa cioè la sede della struttura interessata alla delega.
 
-- **La persona** è possibile selezionarla specificando nome, cognome o matricola, o parti di essi, in modo da riecevere una lista di persone rispondente ai requisiti impostati e limitata alle persone della struttura di cui si è responsabili. 
+- **La persona** è possibile selezionarla specificando nome, cognome o matricola, o parti di essi, in modo da ricevere una lista di persone rispondente ai requisiti impostati e limitata alle persone della struttura di cui si è responsabili. 
 
 - **Data inizio e fine validità**: le date specificate andranno ad individuare il periodo in cui la persona che riceve la delega potrà accedere e usare la delega.
 
 - **Entità Organizzativa**: rappresenta la sede per la quale si concede la delega. Se si tratta di Istituti, ogni sede può gestire i dati oggetto della delega e quindi delegare persone diverse per ogni sede. Se l’entità organizzativa specificata è la sede di tipo **Istituto** (e non la singola sede) vuol dire che saranno gestiti i dati per l’intero Istituto.
 
-- **Provvedimento e Note**: sono campi destrittivi dove è possibile specificare ad esempio informazioni sulla delega e le note.
+- **Provvedimento e Note**: sono campi descrittivi dove è possibile specificare ad esempio informazioni sulla delega e le note.
 
 Dopo il completamento delle informazioni è possibile **Salvare** tramite l’apposito pulsante in fondo alla maschera, oppure **Annullare** e tornare alla maschera precedente.
 
